@@ -2,13 +2,13 @@
 ## Project Overview
    This project focuses on analyzing a transaction dataset to extract meaningful insights, identify patterns, and support data-driven decision making.
    The analysis helps understand customer behavior, transaction trends, and potential anomalies within the data.
-## 🎯 Objective
+## Objective
 - Explore and understand the structure of the transaction dataset.  
 - Clean and preprocess raw data for accurate analysis.  
 - Perform exploratory data analysis (EDA).  
 - Identify trends, correlations, and outliers.  
 - Visualize key findings for better interpretation.  
-## 🔍 Approach / Process
+## Approach / Process
 ### 1. Data Loading & Understanding
 - Imported required libraries and loaded the dataset.  
 - Explored data structure, types, and missing values.  
